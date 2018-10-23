@@ -1,0 +1,75 @@
+1540188413970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eOzWmTNXqA4c"
+1540188415412	Marionette	INFO	Listening on port 40183
+1540188415474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540188415507	Marionette	DEBUG	[2147483649] Frame script loaded
+1540188415508	Marionette	DEBUG	[2147483649] Frame script registered
+1540188415518	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540188415524	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540188415526	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540188415590	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=proxyConnectFailure&u=https%3A//www.huya.com/&c=UTF-8&f=regular&d=Firefox%20%E5%B0%9D%E8%AF%95%E4%B8%8E%E6%8 ... E5%AE%9A%E7%9A%84%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%97%B6%E8%A2%AB%E6%8B%92%E7%BB%9D%E3%80%82
+[Parent 4812, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540188504452	Marionette	INFO	Stopped listening on port 40183
+1540188507996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VgMykZabj1GI"
+1540188509499	Marionette	INFO	Listening on port 36373
+1540188509507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540188509547	Marionette	DEBUG	[2147483649] Frame script loaded
+1540188509550	Marionette	DEBUG	[2147483649] Frame script registered
+1540188509565	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540188509576	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540188509577	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540188509620	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=proxyConnectFailure&u=https%3A//www.huya.com/&c=UTF-8&f=regular&d=Firefox%20%E5%B0%9D%E8%AF%95%E4%B8%8E%E6%8 ... E5%AE%9A%E7%9A%84%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%97%B6%E8%A2%AB%E6%8B%92%E7%BB%9D%E3%80%82
+[Parent 5168, Gecko_IOThread] WARNING: pipe error (47): 连接被对方重设: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540188514524	Marionette	INFO	Stopped listening on port 36373
+1540188544649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rr5OM8iTY7wr"
+1540188546053	Marionette	INFO	Listening on port 44907
+1540188546165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540188546206	Marionette	DEBUG	[2147483649] Frame script loaded
+1540188546206	Marionette	DEBUG	[2147483649] Frame script registered
+1540188546217	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540188546223	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540188546224	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540188546259	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=proxyConnectFailure&u=https%3A//www.huya.com/&c=UTF-8&f=regular&d=Firefox%20%E5%B0%9D%E8%AF%95%E4%B8%8E%E6%8 ... E5%AE%9A%E7%9A%84%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%97%B6%E8%A2%AB%E6%8B%92%E7%BB%9D%E3%80%82
+1540188582470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UALb77z4w8vE"
+1540188583853	Marionette	INFO	Listening on port 33243
+1540188583880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540188583915	Marionette	DEBUG	[2147483649] Frame script loaded
+1540188583921	Marionette	DEBUG	[2147483649] Frame script registered
+1540188583953	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540188583977	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540188583980	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540188584062	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=proxyConnectFailure&u=https%3A//www.baidu.com/&c=UTF-8&f=regular&d=Firefox%20%E5%B0%9D%E8%AF%95%E4%B8%8E%E6% ... E5%AE%9A%E7%9A%84%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%97%B6%E8%A2%AB%E6%8B%92%E7%BB%9D%E3%80%82
+[Parent 5734, Gecko_IOThread] WARNING: pipe error (74): 连接被对方重设: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540188592936	Marionette	INFO	Stopped listening on port 33243
+1540188616644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UsIwVSFz2h0K"
+1540188618170	Marionette	INFO	Listening on port 45367
+1540188618251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540188618304	Marionette	DEBUG	[2147483649] Frame script loaded
+1540188618304	Marionette	DEBUG	[2147483649] Frame script registered
+1540188618314	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540188618321	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540188618322	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540188618356	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=proxyConnectFailure&u=https%3A//www.baidu.com/&c=UTF-8&f=regular&d=Firefox%20%E5%B0%9D%E8%AF%95%E4%B8%8E%E6% ... E5%AE%9A%E7%9A%84%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%97%B6%E8%A2%AB%E6%8B%92%E7%BB%9D%E3%80%82
+1540188835745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NupWbEKa683a"
+1540188837345	Marionette	INFO	Listening on port 40891
+1540188837352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540188837393	Marionette	DEBUG	[2147483649] Frame script loaded
+1540188837399	Marionette	DEBUG	[2147483649] Frame script registered
+1540188837419	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540188837432	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540188837438	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540188837510	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=proxyConnectFailure&u=https%3A//www.baidu.com/&c=UTF-8&f=regular&d=Firefox%20%E5%B0%9D%E8%AF%95%E4%B8%8E%E6% ... E5%AE%9A%E7%9A%84%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%97%B6%E8%A2%AB%E6%8B%92%E7%BB%9D%E3%80%82
+1540188878582	Marionette	INFO	Stopped listening on port 40891
+[Parent 5401, Gecko_IOThread] WARNING: pipe error (97): 连接被对方重设: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 5401, Gecko_IOThread] WARNING: pipe error (74): 连接被对方重设: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540189018349	Marionette	INFO	Stopped listening on port 44907
+1540189125464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lYZpqSLxWJAC"
+1540189126914	Marionette	INFO	Listening on port 36261
+1540189126972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540189127009	Marionette	DEBUG	[2147483649] Frame script loaded
+1540189127015	Marionette	DEBUG	[2147483649] Frame script registered
+1540189127056	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540189127064	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540189127065	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540189127104	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=proxyConnectFailure&u=https%3A//www.baidu.com/&c=UTF-8&f=regular&d=Firefox%20%E5%B0%9D%E8%AF%95%E4%B8%8E%E6% ... E5%AE%9A%E7%9A%84%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%97%B6%E8%A2%AB%E6%8B%92%E7%BB%9D%E3%80%82
+[Parent 7049, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540189147187	Marionette	INFO	Stopped listening on port 36261
